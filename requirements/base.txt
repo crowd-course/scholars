@@ -35,7 +35,7 @@ idna==2.5
 Markdown==2.6.6
 oauth2client==3.0.0
 pycrypto==2.6.1
-PyJWT==1.5.2
+PyJWT==2.4.0
 pyOpenSSL==16.0.0
 psycopg2==2.7.3
 pytz==2017.2
