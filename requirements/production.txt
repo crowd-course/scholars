@@ -14,7 +14,7 @@ newrelic==2.68.0.50
 # boto==2.48.0
 django-storages==1.6.5
 
-django-anymail==0.11.1
+django-anymail==1.2.1
 
 # Raven is the Sentry client
 # --------------------------
