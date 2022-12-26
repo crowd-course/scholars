@@ -49,4 +49,4 @@ urllib3==1.22
 uwsgi==2.0.14
 Wand==0.4.3
 whitenoise==3.3.0
-wheel==0.29.0
+wheel==0.38.1
